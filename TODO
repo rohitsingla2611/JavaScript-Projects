@@ -1,0 +1,12 @@
+'use strict';
+// $$
+
+console.log("\n");
+console.log("File Name :- $$ JS Starts");
+console.log("\n");
+
+
+
+console.log("\n");
+console.log("File Name :- $$ JS Ends");
+console.log("\n");
