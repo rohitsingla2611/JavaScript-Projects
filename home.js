@@ -2,6 +2,7 @@
 document.getElementById('someText').innerHTML = Date();
 
 // CSS
+// document.body.innerHTML = "<h1> Today is " + (new Date()) + "</h1>";
 document.getElementById('someText').style.fontFamily = "Monotype Corsiva";
 document.getElementById('someText').style.fontSize = "100px";
 document.getElementById('someText').style.color = "#C5ABA8";
