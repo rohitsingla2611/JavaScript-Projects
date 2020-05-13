@@ -56,7 +56,10 @@ console.log("less than or equal to :- "
 console.log("\n");
 
 
-
+let checkVal = (3 == "3"); //Linkedin
+console.log("checkVal "+checkVal);
+5 =" 54" ?console.log("true"):console.log("false"); //Linkedin
+ 
 
 
 console.log("\n");
